@@ -39,8 +39,8 @@ The ANMT is at the base of the ecosystem and constantly exchanges hands as trans
 The token code is a valid ERC20 (BEP20) token that has a no limit supply, but enforces our token release schedule.
 The minted amounts at each tranche are already pre encoded, and the minting after the 3y cap as described here can only be performed if burning has indeed occurred.
 
-After 3 years, ANM will periodically burn 80000/tokens per month, buying them back if not enough in its possession.
-Token issuance after 3 years will only happen to sellers, with up to 1000000 tokens/y.
+After 3 years, ANM will periodically burn 2.5M tokens per month, buying them back if not enough in its possession.
+Token issuance after 3 years will only happen to sellers, with up to 35M tokens/y.
 This means the rate is bound to only grow if enough catalogues (hence, contribution to artists) are sold.
 
 Lockup for ANM company!
