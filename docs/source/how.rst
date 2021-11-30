@@ -25,12 +25,12 @@ ANote Token (ANMT)
 The ANMT “ANote Music Token” represents the royalties flowing in the ANM ecosystem.
 Like in Algorand, it is imbued with “native staking” meaning that owning ANMT at any time is sufficient to get rewards.
 The ANMT is at the base of the ecosystem and constantly exchanges hands as transactions happen. The ANote Token is used for:
-.. toctree::
 
-   Paying royalties collected from music usage
-   Airdropping when we pay royalties (decreases over time)
-   Reward contributors to ANM ecosystem, by granting them more of the token itself
-   Buy ANM catalogues on platform at current token price
+
+* Paying royalties collected from music usage
+* Airdropping when we pay royalties (decreases over time)
+* Reward contributors to ANM ecosystem, by granting them more of the token itself
+* Buy ANM catalogues on platform at current token price
 
 *Our official mainnet address is: 0xfff
 */!\ Be sure to transact only with the official contract!*
@@ -48,11 +48,10 @@ Lockup for ANM company!
 How can I get some?
 -------------------
 
-.. toctree::
-   Go to Binance launchpad (https://launchpad.binance.com/en) to follow the three public sale for fundraising.
-   Buy NFTs of music rights and enjoy your royalties
-   Receive AirDrop by owning ANM catalogues at AirDrop date (project launch, 2, 4 and 6 months after project launch)
-   Enlist as ANMT community builder, then claim your reward at next Airdrop.
+* Go to Binance launchpad (https://launchpad.binance.com/en) to follow the three public sale for fundraising.
+* Buy NFTs of music rights and enjoy your royalties
+* Receive AirDrop by owning ANM catalogues at AirDrop date (project launch, 2, 4 and 6 months after project launch)
+* Enlist as ANMT community builder, then claim your reward at next Airdrop.
 
 
 Where to find?
@@ -60,6 +59,5 @@ Where to find?
 
 I missed the sale and AirDrop, where to acquire some tokens?
 
-.. toctree::
-   Head to Binance for a known exchange, to sell BNB against ANMT
-   Head to PancakeSwap on BNB, for the cheapest means to buy
+* Head to Binance for a known exchange, to sell BNB against ANMT
+* Head to PancakeSwap on BNB, for the cheapest means to buy

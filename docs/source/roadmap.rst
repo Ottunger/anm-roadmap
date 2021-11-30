@@ -18,13 +18,12 @@ and prepare the security guidelines that possessing crypto assets require.
 Q1/2022
 -------
 We will officially launch the ANMT token and start listing it on different exchanges and crypto usage platforms
-.. toctree::
 
-   Binance coin (and initial airdrop)
-   Yieldly
-   PancakeSwap
-   Uniswap (chainport to ETH)
-   Kucoin (lending)
+* Binance coin (and initial airdrop)
+* Yieldly
+* PancakeSwap
+* Uniswap (chainport to ETH)
+* Kucoin (lending)
 
 Our first farming pools are supposed to follow suit, with more details on the way.
 
